@@ -1,0 +1,4 @@
+---
+description: "Get a list of recent jira issues for the current user"
+workflow: "transposit/get_latest_user_jiras:v1.0.1"
+prettyName: "Get Jira Issues"
