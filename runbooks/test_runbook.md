@@ -10,6 +10,11 @@ Click on **Add action** above to insert a URL pointing to an action. These are j
 
 You can use `Markdown` *formatting* and [the usual syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), but be aware some formatting and some Markdown features, including tables, images, and inline HTML, won't be displayed when viewing a runbook inside Slack.
 
+[List Recent Commits](https://console.transposit.com/mc/t/yoko-test-mc-team/actions/list_recent_commits)
+
+[List Deployments](https://console.transposit.com/mc/t/yoko-test-mc-team/actions/list_deployments)
+
+[Deploy App](https://console.transposit.com/mc/t/yoko-test-mc-team/actions/deploy_app)
 ## Step 2
 
 Each second-level heading defines a separate step. The runbook's table of contents is made up of each of the runbook's steps.
