@@ -15,6 +15,9 @@ You can use `Markdown` *formatting* and [the usual syntax](https://github.com/ad
 [List Deployments](https://console.transposit.com/mc/t/yoko-test-mc-team/actions/list_deployments)
 
 [Deploy App](https://console.transposit.com/mc/t/yoko-test-mc-team/actions/deploy_app)
+
+
+[Query Stackdriver Logs](https://console.transposit.com/mc/t/yoko-test-mc-team/actions/query_stackdriver_logs)
 ## Step 2
 
 Each second-level heading defines a separate step. The runbook's table of contents is made up of each of the runbook's steps.
