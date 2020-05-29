@@ -1,0 +1,3 @@
+---
+workflow: "yoko-test-mc-team/query_stackdriver_workflow:latest"
+prettyName: "Query Stackdriver Logs"
