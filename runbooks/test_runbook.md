@@ -2,6 +2,7 @@
 
 The top first-level heading becomes the runbook title. A paragraph immediately following the title is the runbook description.
 
+
 ## Step 1
 
 Check most recent logs and commits:
@@ -18,11 +19,8 @@ Check most recent logs and commits:
 
 ## Step 2
 
-Each second-level heading defines a separate step. The runbook's table of contents is made up of each of the runbook's steps.
-
-### Third-level headings like this are treated as headings only
-
-To divide information within a step, you can use a third-level heading.
+Please create a task on Height to track the issue you ran into
+[Create Height Ticket](https://console.transposit.com/mc/t/yoko-test-mc-team/actions/create_height_ticket)
 
 ## Step 3
 
