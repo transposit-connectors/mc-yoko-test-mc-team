@@ -2,7 +2,7 @@
 
 ## Basic Incident Process
 
-File an issue in Jira and have it track updates on this activity
+File an issue in Jira and have it track updates on this incident
 [New Jira Issue](https://console.staging.transposit.com/mc/t/$orgName/actions/jira_create_issue)
 
 Assign an incident commander
