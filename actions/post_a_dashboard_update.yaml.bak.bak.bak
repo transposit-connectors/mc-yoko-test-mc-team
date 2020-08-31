@@ -1,3 +1,0 @@
----
-workflow: "$actualOrgName/transposit_update_dashboard:latest"
-prettyName: "transposit_update_dashboard"

@@ -1,3 +1,0 @@
----
-workflow: "$actualOrgName/transposit_close_activity:latest"
-prettyName: "Close Activity"

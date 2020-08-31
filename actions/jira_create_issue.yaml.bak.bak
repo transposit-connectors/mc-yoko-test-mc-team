@@ -1,3 +1,0 @@
----
-workflow: "$actualOrgName/jira_create_issue:latest"
-prettyName: "jira_create_issue"

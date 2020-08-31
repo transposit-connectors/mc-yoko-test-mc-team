@@ -1,3 +1,0 @@
----
-workflow: "$actualOrgName/transposit_create_activity:latest"
-prettyName: "Create Transposit Activity"
