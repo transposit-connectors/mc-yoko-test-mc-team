@@ -1,3 +1,3 @@
 ---
-workflow: "transposit-workflows/jira_create_issue:latest"
+workflow: "transposit/jira_create_issue:latest"
 prettyName: "jira_create_issue"
