@@ -1,3 +1,2 @@
----
-workflow: "transposit/transposit_create_activity:v1.*.*"
-prettyName: "Create Transposit Activity"
+workflow: 'transposit/transposit_create_activity:v1.*.*'
+prettyName: Create Transposit Activity
