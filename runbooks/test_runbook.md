@@ -2,7 +2,6 @@
 
 The top first-level heading becomes the runbook title. A paragraph immediately following the title is the runbook description.
 
-
 ## Step 1
 
 Check most recent logs and commits:
@@ -14,8 +13,6 @@ Check most recent logs and commits:
 [List Deployments](https://console.transposit.com/mc/t/yoko-test-mc-team/actions/list_deployments)
 
 [Deploy App](https://console.transposit.com/mc/t/yoko-test-mc-team/actions/deploy_app)
-
-
 
 ## Step 2
 
